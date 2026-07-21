@@ -12,6 +12,10 @@
 ![GitHub stars](https://img.shields.io/github/stars/CyrilPeng?style=for-the-badge&logo=github)
 ![Profile views](https://komarev.com/ghpvc/?username=CyrilPeng&style=for-the-badge&color=blueviolet)
 
+<br/>
+
+[![爱发电](https://img.shields.io/badge/爱发电-支持我-ff69b4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyMS4zNWwtMS40NS0xLjMyQzUuNCAxNS4zNiAyIDEyLjI4IDIgOC41IDIgNS40MiA0LjQyIDMgNy41IDNjMS43NCAwIDMuNDEuODEgNC41IDIuMDlDMTMuMDkgMy44MSAxNC43NiAzIDE2LjUgMyAxOS41OCAzIDIyIDUuNDIgMjIgOC41YzAgMy43OC0zLjQgNi44Ni04LjU1IDExLjU0TDEyIDIxLjM1eiIvPjwvc3ZnPg==)](https://ifdian.net/a/cyril)
+
 </div>
 
 ---
@@ -19,7 +23,7 @@
 ## 🧠 关于我
 
 - 🔭 目前在折腾一些 **AI / 自动化 / 桌面工具 / 创作辅助** 相关项目  
-- 🧩 喜欢把“这东西应该能更顺手吧？”变成真正可用的小工具  
+- 🧩 喜欢把"这东西应该能更顺手吧？"变成真正可用的小工具  
 - 🐍 常用 Python，也会写点 JavaScript  
 - ⚡ 风格：能跑、好用、有点酷，最好还带点不科学  
 
@@ -38,9 +42,9 @@
 </td>
 <td width="50%">
 
-### 🧠 [KokoroMemo](https://github.com/CyrilPeng/KokoroMemo)  
-面向 AIRP、AI 游戏、AI 桌宠与 OpenAI 兼容客户端的本地长期记忆核心。  
-给 AI 一点“记性”，也给互动一点连续性。
+### 🌙 [Venera-Next](https://github.com/CyrilPeng/Venera-Next)  
+跨平台漫画阅读器，支持本地漫画和网络漫画源。  
+覆盖 Android、iOS、Windows、Linux、macOS，随时随地享受阅读。
 
 </td>
 </tr>
@@ -97,7 +101,7 @@ SillyTavern 扩展插件，支持自动化小说生成、智能标签提取和�
 
 ## 🌌 一点个人宣言
 
-> 我喜欢做那些“好像没人认真做，但做出来会很爽”的东西。  
+> 我喜欢做那些"好像没人认真做，但做出来会很爽"的东西。  
 > 代码不只是解决问题，也可以是表达、实验和造点小魔法。
 
 ---
