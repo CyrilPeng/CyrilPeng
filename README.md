@@ -24,7 +24,7 @@
 
 - 🔭 目前在折腾一些 **AI / 自动化 / 桌面工具 / 创作辅助** 相关项目  
 - 🧩 喜欢把"这东西应该能更顺手吧？"变成真正可用的小工具  
-- 🐍 常用 Python，也会写点 JavaScript  
+- 🐍 常用 Python / JavaScript / TypeScript，Flutter 是主力框架  
 - ⚡ 风格：能跑、好用、有点酷，最好还带点不科学  
 
 ---
@@ -35,16 +35,16 @@
 <tr>
 <td width="50%">
 
-### 🖱️ [FlowScroll](https://github.com/CyrilPeng/FlowScroll)  
-一款无级滚动软件，把浏览器里的中键自动滚动体验带到整个系统。  
-让鼠标滚动变得丝滑一点，再丝滑一点。
+### 📚 [Venera-Next](https://github.com/CyrilPeng/Venera-Next)  
+跨平台漫画阅读器，支持本地漫画和网络漫画源。  
+覆盖 Android、iOS、Windows、Linux、macOS，随时随地享受阅读。
 
 </td>
 <td width="50%">
 
-### 🌙 [Venera-Next](https://github.com/CyrilPeng/Venera-Next)  
-跨平台漫画阅读器，支持本地漫画和网络漫画源。  
-覆盖 Android、iOS、Windows、Linux、macOS，随时随地享受阅读。
+### 🖱️ [FlowScroll](https://github.com/CyrilPeng/FlowScroll)  
+一款无级滚动软件，把浏览器里的中键自动滚动体验带到整个系统。  
+让鼠标滚动变得丝滑一点，再丝滑一点。
 
 </td>
 </tr>
@@ -91,9 +91,8 @@ SillyTavern 扩展插件，支持自动化小说生成、智能标签提取和�
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 </div>
 
