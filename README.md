@@ -123,6 +123,6 @@ SillyTavern 扩展：AI 自动续写小说，还能把 TXT 小说反向解析成
 
 ### <img src=".github/assets/icons/sparkle.svg" width="22" align="absmiddle" alt="" /> 感谢来访，欢迎围观我的奇怪项目
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:EC4899&height=120&section=footer" />
 
 </div>
