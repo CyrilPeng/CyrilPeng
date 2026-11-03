@@ -10,6 +10,10 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/CyrilPeng?style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%20Star-2.7k-orange?style=for-the-badge&logo=github) ![Downloads](https://img.shields.io/badge/%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%8B%E8%BD%BD-6.2%E4%B8%87%2B-brightgreen?style=for-the-badge&logo=github)
 
+<br/>
+
+[**个人主页 · cyrilpeng.github.io**](https://cyrilpeng.github.io/)
+
 </div>
 
 ---
