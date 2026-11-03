@@ -4,13 +4,11 @@
 
 ### 热衷于把脑洞想法写成妙妙小工具
 
-[cyrilpeng.github.io](https://cyrilpeng.github.io/)
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&center=true&vCenter=true&width=720&lines=%E6%8A%8A%E8%84%91%E6%B4%9E%E5%8F%98%E6%88%90%E9%A1%B9%E7%9B%AE;%E5%86%99%E7%82%B9%E5%B7%A5%E5%85%B7%EF%BC%8C%E5%86%99%E7%82%B9+AI%EF%BC%8C%E5%86%99%E7%82%B9%E6%9C%89%E8%B6%A3%E7%9A%84%E4%B8%9C%E8%A5%BF;%E4%BB%A3%E7%A0%81%E5%8F%AF%E4%BB%A5%E4%B8%8D%E5%AE%8C%E7%BE%8E%EF%BC%8C%E4%BD%86%E4%B8%8D%E8%83%BD%E4%B8%8D%E5%A5%BD%E7%8E%A9" />
 
 <br/>
 
-![GitHub followers](https://img.shields.io/github/followers/CyrilPeng?style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%20Star-2.7k-orange?style=for-the-badge&logo=github) ![Downloads](https://img.shields.io/badge/%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%8B%E8%BD%BD-6.2%E4%B8%87%2B-brightgreen?style=for-the-badge&logo=github)
+![GitHub followers](https://img.shields.io/github/followers/CyrilPeng?style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%20Star-2.7k-orange?style=for-the-badge&logo=github) ![Downloads](https://img.shields.io/badge/%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%8B%E8%BD%BD-6.2%E4%B8%87%2B-brightgreen?style=for-the-badge&logo=github) [![个人主页](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyrilpeng.github.io/)
 
 </div>
 
@@ -23,6 +21,7 @@
 - 也在做 **AI 本地化**：小说生成、角色记忆、素材整理，让模型落进本地工作流
 - 常用 Flutter / Dart、Python、TypeScript，桌面端和系统底层也自己写
 - 风格：能跑、好用、有点酷，最好还带点不科学
+- 邮箱：[cyrilpeng0715@gmail.com](mailto:cyrilpeng0715@gmail.com)
 
 <a href="https://ifdian.net/a/cyril">
 <picture>
