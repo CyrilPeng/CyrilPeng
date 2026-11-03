@@ -1,6 +1,6 @@
 <div align="center">
 
-# 我是 `某不科学的高数`
+# 我是 [某不科学的高数](https://cyrilpeng.github.io/)
 
 ### 热衷于把脑洞想法写成妙妙小工具
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-![GitHub followers](https://img.shields.io/github/followers/CyrilPeng?style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%20Star-2.7k-orange?style=for-the-badge&logo=github) ![Downloads](https://img.shields.io/badge/%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%8B%E8%BD%BD-6.2%E4%B8%87%2B-brightgreen?style=for-the-badge&logo=github) [![个人主页](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://cyrilpeng.github.io/)
+![GitHub followers](https://img.shields.io/github/followers/CyrilPeng?style=for-the-badge&logo=github) ![Total Stars](https://img.shields.io/badge/%E7%B4%AF%E8%AE%A1%20Star-2.7k-orange?style=for-the-badge&logo=github) ![Downloads](https://img.shields.io/badge/%E5%8F%91%E8%A1%8C%E7%89%88%E4%B8%8B%E8%BD%BD-6.2%E4%B8%87%2B-brightgreen?style=for-the-badge&logo=github)
 
 </div>
 
